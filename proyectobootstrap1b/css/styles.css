@@ -1,0 +1,186 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(https://fonts.googleapis.com/css?family=Muli);
+
+@font-face{
+	font-family: "ShadowsIntoLight";
+	src: url('fonts/ShadowsIntoLight.ttf'),
+	url('fonts/ShadowsIntoLight.woff'),
+	url('fonts/ShadowsIntoLight.svg');
+}
+
+@font-face{
+	font-family: "SigmarOne";
+	src: url('fonts/SigmarOne.ttf'),
+	url('fonts/SigmarOne.woff'),
+	url('fonts/SigmarOne.svg');
+}
+
+@font-face{
+	font-family: "Muli-LightItalic";
+	src: url('fonts/Muli-LightItalic.ttf'),
+	url('fonts/Muli-LightItalic.woff'),
+	url('fonts/Muli-LightItalic.svg');
+}
+
+body{
+	background-color: #dcdcdc;
+}
+
+.magia{
+	font-family: "SigmarOne";
+	text-shadow: 4px 4px #b3ff66;
+	color: #FFFFFF;
+}
+
+h1{
+	font-family: "ShadowsIntoLight";
+	text-shadow: 2px 2px #ffff66;
+}
+
+h2{
+	font-family: "Muli-LightItalic";
+}
+
+#fila{
+	border-radius: 50px;
+}
+
+#borde{
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	width: 250px;
+	height: 300px;
+}
+
+#objeto1{
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	width: 250px;
+	height: 300px;
+	margin: 5px;
+	/*position: relative;
+	top:;
+	bottom:;
+	right:;
+	left:;*/	
+}
+
+#small1{
+	margin-left: 15px;
+	margin-top: 5px;
+}
+
+#objeto2{
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	width: 250px;
+	height: 300px;
+	margin: 5px;
+	/*position: relative;
+	top:;
+	bottom: 300px;
+	right:;
+	left: 25px;*/	
+}
+
+#small2{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+#objeto3{
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	width: 250px;
+	height: 300px;
+	margin: 5px;
+	/*position: relative;
+	top:;
+	bottom:;
+	right:;
+	left: 50px;*/	
+}
+
+#small3{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+#objeto4{
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	width: 250px;
+	height: 300px;
+	margin: 5px;
+	/*position: relative;
+	top: 15px;
+	bottom:;
+	right:;
+	left:;*/	
+}
+
+#small4{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+#objeto5{
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	width: 250px;
+	height: 300px;
+	margin: 5px;
+	/*position: relative;
+	top: 15px;
+	bottom:;
+	right:;
+	left: 25px;*/	
+}
+
+#small5{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+#objeto6{
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	width: 250px;
+	height: 300px;
+	margin: 5px;
+	/*position: relative;
+	top: 15px;
+	bottom:;
+	right:;
+	left: 50px;*/	
+}
+
+#small6{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+#boton{
+	background-color: #1ca00d;
+	color: #FFFFFF;
+	margin-left: 40px;
+}
+
+#boton:hover {
+	background-color: black;
+}
+
+#footer{
+	/* #f0f0f0 */
+	background-color: #f0f0f0;
+	text-align: center;
+	color: #1E90FF;
+	width: 100%;
+	height: 10%;
+	float: left;
+	margin: 0 auto;
+	margin-top: 50px;
+	border-radius: 10px;
+	border: 3px solid #d2d2d2;
+}
